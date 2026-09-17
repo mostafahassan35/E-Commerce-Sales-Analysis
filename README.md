@@ -19,7 +19,7 @@ An Excel-based e-commerce sales analysis and interactive dashboard designed to a
 * Pivot Tables
 * Data Visualization
 
-## Dashboard
+
 
 Interactive dashboard built in Excel to explore sales data and identify key business trends.
-## Dashboard
+
