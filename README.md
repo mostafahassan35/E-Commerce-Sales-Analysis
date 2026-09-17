@@ -22,3 +22,4 @@ An Excel-based e-commerce sales analysis and interactive dashboard designed to a
 ## Dashboard
 
 Interactive dashboard built in Excel to explore sales data and identify key business trends.
+![E-Commerce Dashboard](Dashboard.png)
